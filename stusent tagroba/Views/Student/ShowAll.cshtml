@@ -1,0 +1,22 @@
+﻿<style>
+    .details-link {
+        color: teal;
+        text-decoration: none;
+        font-weight: bold;
+        text-align: center;
+    }
+</style>
+
+<table class="table table-bordered table-hover">
+    @foreach (Student item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.ImageUrl</td>
+            <td><img src="~/images/@item.ImageUrl" style="width:100px;"></td>
+
+            <td><a href="@Url.Action("Details", "Student", new { id = item.Id })" class="details-link">View details</a></td>
+        </tr>
+    }
+</table>

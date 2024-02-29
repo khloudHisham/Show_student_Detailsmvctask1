@@ -1,0 +1,60 @@
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\appsettings.Development.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\appsettings.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.staticwebassets.runtime.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.exe
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.deps.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.runtimeconfig.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.dll
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.pdb
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.GeneratedMSBuildEditorConfig.editorconfig
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.AssemblyInfoInputs.cache
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.AssemblyInfo.cs
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.csproj.CoreCompileInputs.cache
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.MvcApplicationPartsAssemblyInfo.cache
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.RazorAssemblyInfo.cache
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.RazorAssemblyInfo.cs
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets.build.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets.development.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.stusent tagroba.Microsoft.AspNetCore.StaticWebAssets.props
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.build.stusent tagroba.props
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.stusent tagroba.props
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.stusent tagroba.props
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets.pack.json
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\scopedcss\bundle\stusent tagroba.styles.css
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\scopedcss\projectbundle\stusent tagroba.bundle.scp.css
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.dll
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\refint\stusent tagroba.dll
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.pdb
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.genruntimeconfig.cache
+D:\المنحه\mvc\stusent tagroba\stusent tagroba\obj\Debug\net8.0\ref\stusent tagroba.dll
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\appsettings.Development.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\appsettings.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.staticwebassets.runtime.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.exe
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.deps.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.runtimeconfig.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.dll
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\bin\Debug\net8.0\stusent tagroba.pdb
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.GeneratedMSBuildEditorConfig.editorconfig
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.AssemblyInfoInputs.cache
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.AssemblyInfo.cs
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.csproj.CoreCompileInputs.cache
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.MvcApplicationPartsAssemblyInfo.cache
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.RazorAssemblyInfo.cache
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.RazorAssemblyInfo.cs
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets.build.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets.development.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.stusent tagroba.Microsoft.AspNetCore.StaticWebAssets.props
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.build.stusent tagroba.props
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.stusent tagroba.props
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.stusent tagroba.props
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\staticwebassets.pack.json
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\scopedcss\bundle\stusent tagroba.styles.css
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\scopedcss\projectbundle\stusent tagroba.bundle.scp.css
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.dll
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\refint\stusent tagroba.dll
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.pdb
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\stusent tagroba.genruntimeconfig.cache
+D:\المنحه\mvc\1\stusent tagroba\stusent tagroba\stusent tagroba\obj\Debug\net8.0\ref\stusent tagroba.dll

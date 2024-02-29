@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\stusent tagroba.props" />
+</Project>

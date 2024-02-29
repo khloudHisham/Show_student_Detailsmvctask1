@@ -1,0 +1,13 @@
+﻿@model stusent_tagroba.Models.Student
+
+<h2>Student Details</h2>
+
+<div class="card" style="width: 18rem;">
+    <img src="~/images/@Model.ImageUrl" class="card-img-top" alt="Student Image">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">ID: @Model.Id</p>
+        <p class="card-text">Address: @Model.Address</p>
+    </div>
+</div>
+<a href="@Url.Action("All", "Student")" class="btn btn-primary">Back to List</a>
